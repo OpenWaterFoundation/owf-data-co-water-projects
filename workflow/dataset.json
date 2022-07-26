@@ -1,0 +1,25 @@
+{
+  "title": "Colorado Water Projects",
+  "description": "Colorado Water Projects.",
+  "identifier": "owf-data-co-water-projects",
+  "landingPage": "https://data.openwaterfoundation.org/state/co/owf/water-projects/",
+  "issued": "2022-07-26",
+  "keyword": [
+    "point",
+    "water",
+    "projects"
+  ],
+  "publisher": {
+    "name": "Open Water Foundation",
+    "mbox": "info@openwaterfoundation.org"
+  },
+  "distribution": [
+    {
+      "accessURL": "",
+      "byteSize": null,
+      "description": "Resource locator",
+      "format": "application/geo+json",
+      "title": "Colorado Water Projects"
+    }
+  ]
+}

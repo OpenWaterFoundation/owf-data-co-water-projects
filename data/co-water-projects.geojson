@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "bbox": [-105.34974, 40.358249, -104.88775, 40.97566],
+  "features": [
+      {
+      "type": "Feature",
+      "bbox": [-105.235645, 40.358249, -105.235645, 40.358249],
+      "properties": {
+        "ProjectName": "Chimney Hollow Reservoir",
+        "ProjectType": "Storage",
+        "LeadOrganization": "Northern Water",
+        "OrganizationType": "Water Conservation District",
+        "Description": "New storage to improve reliability of Windy Gap project",
+        "Website": "https://www.northernwater.org/chrp",
+        "StoryMap": "",
+        "InBasin": "No",
+        "Longitude": -105.235645,
+        "Latitude": 40.358249,
+        "Notes": "Coordinates estimated from Northern Water online map"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.235645, 40.358249]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.34974, 40.88121, -105.34974, 40.88121],
+      "properties": {
+        "ProjectName": "Halligan Reservoir Expansion",
+        "ProjectType": "Storage",
+        "LeadOrganization": "Fort Collins Utilities",
+        "OrganizationType": "City government",
+        "Description": "Expand Halligan reservoir on North Fork of the Poudre",
+        "Website": "https://www.fcgov.com/halligan/",
+        "StoryMap": "https://fcgov.maps.arcgis.com/apps/MapJournal/index.html?appid\u003d8be10606da3f4fd7a039825f74c667e4",
+        "InBasin": "Yes",
+        "Longitude": -105.34974,
+        "Latitude": 40.88121,
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.34974, 40.88121]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.19338, 40.67234, -105.19338, 40.67234],
+      "properties": {
+        "ProjectName": "Northern Integrated Supply Project (NISP)",
+        "ProjectType": "Storage",
+        "LeadOrganization": "Northern Water",
+        "OrganizationType": "Water Conservation District",
+        "Description": "New storage",
+        "Website": "https://www.northernwater.org/NISP",
+        "StoryMap": "",
+        "InBasin": "Yes",
+        "Longitude": -105.19338,
+        "Latitude": 40.67234,
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.19338, 40.67234]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-104.88775, 40.97566, -104.88775, 40.97566],
+      "properties": {
+        "ProjectName": "Terry Ranch Project",
+        "ProjectType": "Aquifer Storage and Recovery",
+        "LeadOrganization": "Greeley Water and Sewer",
+        "OrganizationType": "City government",
+        "Description": "New aquifer storage and recovery",
+        "Website": "https://greeleygov.com/services/ws/trp",
+        "StoryMap": "https://storymaps.arcgis.com/stories/5c6250273ba0494d9bb90c4c80df2887",
+        "InBasin": "Yes",
+        "Longitude": -104.88775,
+        "Latitude": 40.97566,
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.88775, 40.97566]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.091359, 40.631237, -105.091359, 40.631237],
+      "properties": {
+        "ProjectName": "Thornton Pipeline",
+        "ProjectType": "Agricultural transfer, transbasin diversion",
+        "LeadOrganization": "City of Thornton",
+        "OrganizationType": "City government",
+        "Description": "Transfer Water Supply and Storage agricultural water to Thornton",
+        "Website": "https://thorntonwaterproject.com/",
+        "StoryMap": "",
+        "InBasin": "Yes",
+        "Longitude": -105.091359,
+        "Latitude": 40.631237,
+        "Notes": "Coordinates estimated from Thorntom route online map"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.091359, 40.631237]
+      }
+    }
+  ]
+}
