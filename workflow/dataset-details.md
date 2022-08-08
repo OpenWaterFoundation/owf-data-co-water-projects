@@ -11,13 +11,13 @@ Basin Implementation Plan.
 
 The following files can be downloaded or used directly.
 
-| **Layer File** | **Description** |
-| -- | -- |
-| [`co-water-projects.geojson`](co-water-projects.geojson) | Colorado water projects. |
+| **Layer File** | **Description** | **View** |
+| -- | -- | -- |
+| [`co-water-projects.geojson`](co-water-projects.geojson) | Colorado water projects. | [View](https://gavinr.github.io/geojson-viewer/?url=https://data.openwaterfoundation.org/state/co/owf/water-projects/co-water-projects.geojson) |
 
 ## Workflow ##
 
-See the [`owf-data-co-farms`](https://github.com/OpenWaterFoundation/owf-data-co-water-projects)
+See the [`owf-data-co-water-projects`](https://github.com/OpenWaterFoundation/owf-data-co-water-projects)
 GitHub repository for information.
 
 ## Update Frequency and Versions ##
